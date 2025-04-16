@@ -1,0 +1,146 @@
+frmbanner,,SURFACE,New Surface|50|155|480|640|268435476|65568
+    frmbanner,,version,5.0
+    frmbanner,,loadlibs,
+    frmbanner,,groupid,9999999999
+    frmbanner,,groupby,0
+    frmbanner,,runpos,0|0
+    frmbanner,,DOCK,FFFF
+    frmbanner,,PARENT,
+    frmbanner,,MARGINS,
+    frmbanner,,AUTOSIZE,false
+    frmbanner,,JSON,{}
+    frmbanner,,TEXT,New Surface
+    frmbanner,,TOOLTIP,
+    frmbanner,,ENABLED,true
+    frmbanner,,VISIBLE,true
+    frmbanner,,FORECOLOR,&heeeeee
+    frmbanner,,BACKCOLOR,&hffffff
+    frmbanner,,ICON,
+    frmbanner,,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    frmbanner,,FONTSIZE,14px
+    frmbanner,,FONTBOLD,false
+    frmbanner,,FONTITALIC,false
+    frmbanner,,FONTUNDERLINE,false
+    frmbanner,,FONTSTRIKETHRU,false
+    frmbanner,,MENUBAR,
+    frmbanner,,TOOLBAR,
+    frmbanner,,STATUSBAR,
+    frmbanner,,SAVESTATE,false
+    frmbanner,,drag.x,
+    frmbanner,,drag.y,
+    frmbanner,,xdragrange,
+    frmbanner,,ydragrange,
+    frmbanner,,size.x,
+    frmbanner,,size.y,
+    frmbanner,,negadj,
+    frmbanner,,posadj,
+    frmbanner,,TAG,~_private<COLN> false<LF>autosize<COLN> false<LF>bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>clipmenu<COLN> true<LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>flattenonpull<COLN> true<LF>hotkey<COLN> <LF>ignorezorder<COLN> false<LF>output<COLN> normal<LF>prevent<COLN> <LF>record<COLN> <LF>shadow<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-form<LF>toggleonflip<COLN> true<LF>useastheme<COLN> false<LF>watch<COLN> false<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>body.lock-height<COLN> <LF>body.version<COLN> v5.0~color<COLN> #EEEEEE<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>background-color<COLN> #ffffff<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>pointer-events<COLN> auto<LF>z-index<COLN> 2<LF>body.background-color<COLN> white<LF>body.box-sizing<COLN> border-box<LF>body.color<COLN> #eeeeee<LF>body.margin<COLN> 0px 0px 0px 0px<LF>body.overflow-y<COLN> auto<LF>body.padding<COLN> 50px 50px 50px 50px<LF>body.text-align<COLN> <LF>body.vertical-align<COLN>
+    frmbanner,,events,activate<COLN> <CR>adjustlayout<COLN> <CR>afterpull<COLN> <CR>afterpush<COLN> <CR>beforeunload<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>disabled<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enabled<COLN> <CR>enterkey<COLN> <CR>fullscreen<COLN> <CR>gotfocus<COLN> <CR>hide<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>load<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>maximize<COLN> <CR>menu<COLN> <CR>minimize<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>move<COLN> <CR>move<COLN> <CR>onpull<COLN> <CR>onpush<COLN> <CR>refresh<COLN> <CR>resize<COLN> <CR>restore<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN> <CR>unload<COLN> <CR>viewchange<COLN> <CR>widgetloaded<COLN> <CR>widgetunloading<COLN>
+    frmbanner,,extend,{"react"<COLN>"<LF>"}
+    frmbanner,,GROUPIDS,[0100][0200]
+    frmbanner,,WSTYLES,268435476
+    frmbanner,,WSTYLESEX,65568
+    frmbanner,,WIDTH,480
+    frmbanner,,HEIGHT,640
+    frmbanner,,EDITPOS,50|155
+frmbanner,lbspace1,TARGET,~
+frmbanner,lbspace1,PARENTGROUP,~
+frmbanner,lbspace1,load,label||0|0|412|50|1342377728|32
+    frmbanner,lbspace1,group,true
+    frmbanner,lbspace1,groupid,0200
+    frmbanner,lbspace1,groupby,9999999999
+    frmbanner,lbspace1,widgetlock,false
+    frmbanner,lbspace1,iswidget,false
+    frmbanner,lbspace1,iscollection,false
+    frmbanner,lbspace1,collectname,
+    frmbanner,lbspace1,widgetname,
+    frmbanner,lbspace1,placeholder,
+    frmbanner,lbspace1,addedby,
+    frmbanner,lbspace1,DOCK,FFFF
+    frmbanner,lbspace1,PICTURE,media/img_missing.png
+    frmbanner,lbspace1,SIZE,412<PIP>50
+    frmbanner,lbspace1,JSON,{}
+    frmbanner,lbspace1,TEXT, 
+    frmbanner,lbspace1,TOOLTIP,
+    frmbanner,lbspace1,ENABLED,true
+    frmbanner,lbspace1,VISIBLE,true
+    frmbanner,lbspace1,ZORDER,0
+    frmbanner,lbspace1,FORECOLOR,&hadd8e6
+    frmbanner,lbspace1,BACKCOLOR,transparent
+    frmbanner,lbspace1,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    frmbanner,lbspace1,FONTSIZE,12px
+    frmbanner,lbspace1,FONTBOLD,false
+    frmbanner,lbspace1,FONTITALIC,true
+    frmbanner,lbspace1,FONTUNDERLINE,false
+    frmbanner,lbspace1,FONTSTRIKETHRU,false
+    frmbanner,lbspace1,INFO,
+    frmbanner,lbspace1,PAGECOUNT,0
+    frmbanner,lbspace1,DATABIND,
+    frmbanner,lbspace1,BINDMAPPING,
+    frmbanner,lbspace1,drag.x,1
+    frmbanner,lbspace1,drag.y,1
+    frmbanner,lbspace1,xdragrange,-1<SEMI> -1
+    frmbanner,lbspace1,ydragrange,-1<SEMI> -1
+    frmbanner,lbspace1,size.x,1
+    frmbanner,lbspace1,size.y,1
+    frmbanner,lbspace1,negadj,
+    frmbanner,lbspace1,posadj,
+    frmbanner,lbspace1,child,false
+    frmbanner,lbspace1,displaymode,block
+    frmbanner,lbspace1,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~color<COLN> #add8e6<LF>cursor<COLN> <LF>display<COLN> table<LF>float<COLN> <LF>height<COLN> calc(50% - 240px)<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>border-style<COLN> solid<LF>border-width<COLN> 0px<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 12px<LF>font-style<COLN> italic<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>text-decoration<COLN> <LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 0px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    frmbanner,lbspace1,LOCK,false
+    frmbanner,lbspace1,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    frmbanner,lbspace1,extend,{"react"<COLN>"<LF>"}
+frmbanner,lbspace1,REFRESH, 
+frmbanner,lbtitle,TARGET,~
+frmbanner,lbtitle,PARENTGROUP,~
+frmbanner,lbtitle,load,label|Header|0|0|105|69|1342377216|32
+    frmbanner,lbtitle,group,true
+    frmbanner,lbtitle,groupid,0100
+    frmbanner,lbtitle,groupby,9999999999
+    frmbanner,lbtitle,widgetlock,false
+    frmbanner,lbtitle,iswidget,false
+    frmbanner,lbtitle,iscollection,false
+    frmbanner,lbtitle,collectname,
+    frmbanner,lbtitle,widgetname,
+    frmbanner,lbtitle,placeholder,
+    frmbanner,lbtitle,addedby,
+    frmbanner,lbtitle,DOCK,FFFF
+    frmbanner,lbtitle,PICTURE,media/img_missing.png
+    frmbanner,lbtitle,SIZE,105<PIP>69
+    frmbanner,lbtitle,JSON,{}
+    frmbanner,lbtitle,TEXT,Header
+    frmbanner,lbtitle,TOOLTIP,
+    frmbanner,lbtitle,ENABLED,true
+    frmbanner,lbtitle,VISIBLE,true
+    frmbanner,lbtitle,ZORDER,0
+    frmbanner,lbtitle,FORECOLOR,var(--color50)
+    frmbanner,lbtitle,BACKCOLOR,var(--color800)
+    frmbanner,lbtitle,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    frmbanner,lbtitle,FONTSIZE,30px
+    frmbanner,lbtitle,FONTBOLD,false
+    frmbanner,lbtitle,FONTITALIC,false
+    frmbanner,lbtitle,FONTUNDERLINE,false
+    frmbanner,lbtitle,FONTSTRIKETHRU,false
+    frmbanner,lbtitle,INFO,
+    frmbanner,lbtitle,PAGECOUNT,0
+    frmbanner,lbtitle,DATABIND,
+    frmbanner,lbtitle,BINDMAPPING,
+    frmbanner,lbtitle,drag.x,1
+    frmbanner,lbtitle,drag.y,1
+    frmbanner,lbtitle,xdragrange,-1<SEMI> -1
+    frmbanner,lbtitle,ydragrange,-1<SEMI> -1
+    frmbanner,lbtitle,size.x,1
+    frmbanner,lbtitle,size.y,1
+    frmbanner,lbtitle,negadj,
+    frmbanner,lbtitle,posadj,
+    frmbanner,lbtitle,child,false
+    frmbanner,lbtitle,displaymode,block
+    frmbanner,lbtitle,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~background<COLN> linear-gradient(90deg<COMMA> rgba(0<COMMA>0<COMMA>0<COMMA>0) 9%<COMMA> rgba(39<COMMA>42<COMMA>53<COMMA>0.42) 33%<COMMA> rgba(39<COMMA>42<COMMA>53<COMMA>0.94) 67%)<LF>color<COLN> var(--color50)<LF>cursor<COLN> <LF>display<COLN> table<LF>float<COLN> <LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> var(--color800)<LF>border-bottom-color<COLN> #fff<LF>border-bottom-width<COLN> 1px<LF>border-style<COLN> solid<LF>border-top-color<COLN> #fff<LF>border-top-width<COLN> 1px<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 30px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>text-decoration<COLN> <LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.letter-spacing<COLN> -1px<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.background-color<COLN> var(--color800)<LF>div.display<COLN> block<LF>div.margin<COLN> 0px -50px 15px -50px<LF>div.padding<COLN> 0px 0px 0px 50px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    frmbanner,lbtitle,LOCK,false
+    frmbanner,lbtitle,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    frmbanner,lbtitle,extend,{"react"<COLN>"<LF>"}
+frmbanner,lbtitle,REFRESH, 
+frmbanner,,SETVIEW,
+frmbanner,,HIDE,
+frmbanner,,REFRESH,true

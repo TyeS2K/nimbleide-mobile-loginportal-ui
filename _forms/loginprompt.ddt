@@ -1,0 +1,342 @@
+loginprompt,,SURFACE,New Surface|50|155|480|640|268437524|81952
+    loginprompt,,version,5.0
+    loginprompt,,loadlibs,
+    loginprompt,,groupid,9999999999
+    loginprompt,,groupby,0
+    loginprompt,,runpos,0|0
+    loginprompt,,DOCK,FFFF
+    loginprompt,,PARENT,
+    loginprompt,,MARGINS,
+    loginprompt,,AUTOSIZE,false
+    loginprompt,,JSON,{}
+    loginprompt,,TEXT,New Surface
+    loginprompt,,TOOLTIP,
+    loginprompt,,ENABLED,true
+    loginprompt,,VISIBLE,true
+    loginprompt,,FORECOLOR,&heeeeee
+    loginprompt,,BACKCOLOR,rgba(0<COMMA> 0<COMMA> 0<COMMA> 0.30)
+    loginprompt,,ICON,
+    loginprompt,,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    loginprompt,,FONTSIZE,14px
+    loginprompt,,FONTBOLD,false
+    loginprompt,,FONTITALIC,false
+    loginprompt,,FONTUNDERLINE,false
+    loginprompt,,FONTSTRIKETHRU,false
+    loginprompt,,MENUBAR,
+    loginprompt,,TOOLBAR,
+    loginprompt,,STATUSBAR,
+    loginprompt,,SAVESTATE,false
+    loginprompt,,drag.x,
+    loginprompt,,drag.y,
+    loginprompt,,xdragrange,
+    loginprompt,,ydragrange,
+    loginprompt,,size.x,
+    loginprompt,,size.y,
+    loginprompt,,negadj,
+    loginprompt,,posadj,
+    loginprompt,,TAG,~_private<COLN> false<LF>autosize<COLN> false<LF>bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>clipmenu<COLN> true<LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>flattenonpull<COLN> true<LF>hotkey<COLN> <LF>ignorezorder<COLN> false<LF>output<COLN> normal<LF>prevent<COLN> <LF>record<COLN> <LF>shadow<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-form<LF>toggleonflip<COLN> true<LF>useastheme<COLN> false<LF>watch<COLN> false<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>body.lock-height<COLN> <LF>body.version<COLN> v5.0~color<COLN> #EEEEEE<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>backdrop-filter<COLN> blur(3px)<LF>background-color<COLN> rgba(0<COMMA> 0<COMMA> 0<COMMA> 0.30)<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>pointer-events<COLN> auto<LF>z-index<COLN> 2<LF>body.background-color<COLN> transparent<LF>body.box-sizing<COLN> border-box<LF>body.color<COLN> #eeeeee<LF>body.margin<COLN> 0px 0px 0px 0px<LF>body.overflow-y<COLN> auto<LF>body.padding<COLN> 50px 50px 50px 50px<LF>body.text-align<COLN> <LF>body.vertical-align<COLN>
+    loginprompt,,events,activate<COLN> <CR>adjustlayout<COLN> <CR>afterpull<COLN> <CR>afterpush<COLN> <CR>beforeunload<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>disabled<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enabled<COLN> <CR>enterkey<COLN> <CR>fullscreen<COLN> <CR>gotfocus<COLN> <CR>hide<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>load<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>maximize<COLN> <CR>menu<COLN> <CR>minimize<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>move<COLN> <CR>move<COLN> <CR>onpull<COLN> <CR>onpush<COLN> <CR>refresh<COLN> <CR>resize<COLN> <CR>restore<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN> <CR>unload<COLN> <CR>viewchange<COLN> <CR>widgetloaded<COLN> <CR>widgetunloading<COLN>
+    loginprompt,,extend,{"react"<COLN>"<LF>"}
+    loginprompt,,GROUPIDS,[0100][0300][0200]
+    loginprompt,,WSTYLES,268437524
+    loginprompt,,WSTYLESEX,81952
+    loginprompt,,WIDTH,480
+    loginprompt,,HEIGHT,640
+    loginprompt,,EDITPOS,50|155
+loginprompt,lbspace1,TARGET,~
+loginprompt,lbspace1,PARENTGROUP,~
+loginprompt,lbspace1,load,label||0|0|105|23|1342377728|32
+    loginprompt,lbspace1,group,true
+    loginprompt,lbspace1,groupid,0100
+    loginprompt,lbspace1,groupby,9999999999
+    loginprompt,lbspace1,widgetlock,false
+    loginprompt,lbspace1,iswidget,false
+    loginprompt,lbspace1,iscollection,false
+    loginprompt,lbspace1,collectname,
+    loginprompt,lbspace1,widgetname,
+    loginprompt,lbspace1,placeholder,
+    loginprompt,lbspace1,addedby,
+    loginprompt,lbspace1,DOCK,FFFF
+    loginprompt,lbspace1,PICTURE,media/img_missing.png
+    loginprompt,lbspace1,SIZE,105<PIP>23
+    loginprompt,lbspace1,JSON,{}
+    loginprompt,lbspace1,TEXT, 
+    loginprompt,lbspace1,TOOLTIP,
+    loginprompt,lbspace1,ENABLED,true
+    loginprompt,lbspace1,VISIBLE,true
+    loginprompt,lbspace1,ZORDER,0
+    loginprompt,lbspace1,FORECOLOR,&hadd8e6
+    loginprompt,lbspace1,BACKCOLOR,transparent
+    loginprompt,lbspace1,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    loginprompt,lbspace1,FONTSIZE,12px
+    loginprompt,lbspace1,FONTBOLD,false
+    loginprompt,lbspace1,FONTITALIC,true
+    loginprompt,lbspace1,FONTUNDERLINE,false
+    loginprompt,lbspace1,FONTSTRIKETHRU,false
+    loginprompt,lbspace1,INFO,
+    loginprompt,lbspace1,PAGECOUNT,0
+    loginprompt,lbspace1,DATABIND,
+    loginprompt,lbspace1,BINDMAPPING,
+    loginprompt,lbspace1,drag.x,1
+    loginprompt,lbspace1,drag.y,1
+    loginprompt,lbspace1,xdragrange,-1<SEMI> -1
+    loginprompt,lbspace1,ydragrange,-1<SEMI> -1
+    loginprompt,lbspace1,size.x,1
+    loginprompt,lbspace1,size.y,1
+    loginprompt,lbspace1,negadj,
+    loginprompt,lbspace1,posadj,
+    loginprompt,lbspace1,child,false
+    loginprompt,lbspace1,displaymode,block
+    loginprompt,lbspace1,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~color<COLN> #add8e6<LF>cursor<COLN> <LF>display<COLN> table<LF>float<COLN> <LF>height<COLN> calc(50% - 150px)<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>border-style<COLN> solid<LF>border-width<COLN> 0px<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 12px<LF>font-style<COLN> italic<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>text-decoration<COLN> <LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 0px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginprompt,lbspace1,LOCK,false
+    loginprompt,lbspace1,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginprompt,lbspace1,extend,{"react"<COLN>"<LF>"}
+loginprompt,lbspace1,REFRESH, 
+loginprompt,frame,TARGET,~
+loginprompt,frame,PARENTGROUP,~
+loginprompt,frame,load,frame||0|0|380|139|1342227719|544
+    loginprompt,frame,group,true
+    loginprompt,frame,groupid,0300
+    loginprompt,frame,groupby,9999999999
+    loginprompt,frame,widgetlock,false
+    loginprompt,frame,iswidget,false
+    loginprompt,frame,iscollection,false
+    loginprompt,frame,collectname,
+    loginprompt,frame,widgetname,
+    loginprompt,frame,placeholder,
+    loginprompt,frame,addedby,
+    loginprompt,frame,DOCK,FFFF
+    loginprompt,frame,PICTURE,media/img_missing.png
+    loginprompt,frame,SIZE,380<PIP>139
+    loginprompt,frame,JSON,{}
+    loginprompt,frame,TEXT,
+    loginprompt,frame,TOOLTIP,
+    loginprompt,frame,ENABLED,true
+    loginprompt,frame,VISIBLE,true
+    loginprompt,frame,ZORDER,0
+    loginprompt,frame,FORECOLOR,var(--color50)
+    loginprompt,frame,BACKCOLOR,var(--color50)
+    loginprompt,frame,FONTNAME,inherit
+    loginprompt,frame,FONTSIZE,14px
+    loginprompt,frame,FONTBOLD,false
+    loginprompt,frame,FONTITALIC,false
+    loginprompt,frame,FONTUNDERLINE,false
+    loginprompt,frame,FONTSTRIKETHRU,false
+    loginprompt,frame,INFO,
+    loginprompt,frame,PAGECOUNT,0
+    loginprompt,frame,DATABIND,
+    loginprompt,frame,BINDMAPPING,
+    loginprompt,frame,drag.x,1
+    loginprompt,frame,drag.y,1
+    loginprompt,frame,xdragrange,-1<SEMI> -1
+    loginprompt,frame,ydragrange,-1<SEMI> -1
+    loginprompt,frame,size.x,1
+    loginprompt,frame,size.y,1
+    loginprompt,frame,negadj,
+    loginprompt,frame,posadj,
+    loginprompt,frame,child,false
+    loginprompt,frame,displaymode,block
+    loginprompt,frame,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> none<LF>color<COLN> var(--color50)<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>margin<COLN> 0px 0px 0px 0px<LF>opacity<COLN> <LF>overflow<COLN> visible<LF>padding<COLN> 20px 20px 20px 20px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> var(--color50)<LF>border-radius<COLN> 7px<LF>box-shadow<COLN> rgba(20<COMMA>20<COMMA>20<COMMA>.85) 8px 8px 8px 0px<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 14px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    loginprompt,frame,LOCK,false
+    loginprompt,frame,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginprompt,frame,extend,{"react"<COLN>"<LF>"}
+loginprompt,frame,REFRESH, 
+loginprompt,msgtitle,TARGET,frame
+loginprompt,msgtitle,PARENTGROUP,frame
+loginprompt,msgtitle,load,label|Password|0|0|105|69|1342377216|32
+    loginprompt,msgtitle,group,true
+    loginprompt,msgtitle,groupid,0200
+    loginprompt,msgtitle,groupby,0300
+    loginprompt,msgtitle,widgetlock,false
+    loginprompt,msgtitle,iswidget,false
+    loginprompt,msgtitle,iscollection,false
+    loginprompt,msgtitle,collectname,
+    loginprompt,msgtitle,widgetname,
+    loginprompt,msgtitle,placeholder,
+    loginprompt,msgtitle,addedby,
+    loginprompt,msgtitle,DOCK,FFFF
+    loginprompt,msgtitle,PICTURE,media/img_missing.png
+    loginprompt,msgtitle,SIZE,105<PIP>69
+    loginprompt,msgtitle,JSON,{}
+    loginprompt,msgtitle,TEXT,Password
+    loginprompt,msgtitle,TOOLTIP,
+    loginprompt,msgtitle,ENABLED,true
+    loginprompt,msgtitle,VISIBLE,true
+    loginprompt,msgtitle,ZORDER,0
+    loginprompt,msgtitle,FORECOLOR,var(--color50)
+    loginprompt,msgtitle,BACKCOLOR,var(--color800)
+    loginprompt,msgtitle,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    loginprompt,msgtitle,FONTSIZE,28px
+    loginprompt,msgtitle,FONTBOLD,false
+    loginprompt,msgtitle,FONTITALIC,false
+    loginprompt,msgtitle,FONTUNDERLINE,false
+    loginprompt,msgtitle,FONTSTRIKETHRU,false
+    loginprompt,msgtitle,INFO,
+    loginprompt,msgtitle,PAGECOUNT,0
+    loginprompt,msgtitle,DATABIND,
+    loginprompt,msgtitle,BINDMAPPING,
+    loginprompt,msgtitle,drag.x,1
+    loginprompt,msgtitle,drag.y,1
+    loginprompt,msgtitle,xdragrange,-1<SEMI> -1
+    loginprompt,msgtitle,ydragrange,-1<SEMI> -1
+    loginprompt,msgtitle,size.x,1
+    loginprompt,msgtitle,size.y,1
+    loginprompt,msgtitle,negadj,
+    loginprompt,msgtitle,posadj,
+    loginprompt,msgtitle,child,true
+    loginprompt,msgtitle,displaymode,block
+    loginprompt,msgtitle,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~background<COLN> linear-gradient(90deg<COMMA> rgba(0<COMMA>0<COMMA>0<COMMA>0) 9%<COMMA> rgba(39<COMMA>42<COMMA>53<COMMA>0.42) 33%<COMMA> rgba(39<COMMA>42<COMMA>53<COMMA>0.94) 67%)<LF>color<COLN> var(--color50)<LF>cursor<COLN> <LF>display<COLN> table<LF>float<COLN> <LF>height<COLN> 63px<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> var(--color800)<LF>border-bottom-color<COLN> #fff<LF>border-bottom-width<COLN> 1px<LF>border-style<COLN> solid<LF>border-top-color<COLN> #fff<LF>border-top-width<COLN> 1px<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 28px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>text-decoration<COLN> <LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.letter-spacing<COLN> -1px<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.background-color<COLN> var(--color800)<LF>div.display<COLN> block<LF>div.margin<COLN> 0px -20px 4px -20px<LF>div.padding<COLN> 0px 0px 0px 20px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginprompt,msgtitle,LOCK,false
+    loginprompt,msgtitle,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginprompt,msgtitle,extend,{"react"<COLN>"<LF>"}
+loginprompt,msgtitle,REFRESH, 
+loginprompt,input,TARGET,frame
+loginprompt,input,PARENTGROUP,frame
+loginprompt,input,load,textbox||0|0|380|46|1342374016|131072
+    loginprompt,input,group,false
+    loginprompt,input,groupid,0
+    loginprompt,input,groupby,0300
+    loginprompt,input,widgetlock,false
+    loginprompt,input,iswidget,false
+    loginprompt,input,iscollection,false
+    loginprompt,input,collectname,
+    loginprompt,input,widgetname,
+    loginprompt,input,placeholder,enter value..
+    loginprompt,input,addedby,
+    loginprompt,input,DOCK,FFFF
+    loginprompt,input,PICTURE,media/img_missing.png
+    loginprompt,input,SIZE,380<PIP>46
+    loginprompt,input,JSON,{}
+    loginprompt,input,TEXT,
+    loginprompt,input,TOOLTIP,
+    loginprompt,input,ENABLED,true
+    loginprompt,input,VISIBLE,true
+    loginprompt,input,ZORDER,0
+    loginprompt,input,FORECOLOR,&hffffff
+    loginprompt,input,BACKCOLOR,transparent
+    loginprompt,input,FONTNAME,inherit
+    loginprompt,input,FONTSIZE,16.5px
+    loginprompt,input,FONTBOLD,false
+    loginprompt,input,FONTITALIC,false
+    loginprompt,input,FONTUNDERLINE,false
+    loginprompt,input,FONTSTRIKETHRU,false
+    loginprompt,input,INFO,
+    loginprompt,input,PAGECOUNT,0
+    loginprompt,input,DATABIND,
+    loginprompt,input,BINDMAPPING,
+    loginprompt,input,drag.x,1
+    loginprompt,input,drag.y,1
+    loginprompt,input,xdragrange,-1<SEMI> -1
+    loginprompt,input,ydragrange,-1<SEMI> -1
+    loginprompt,input,size.x,1
+    loginprompt,input,size.y,1
+    loginprompt,input,negadj,
+    loginprompt,input,posadj,
+    loginprompt,input,child,true
+    loginprompt,input,displaymode,block
+    loginprompt,input,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> Room password<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> input<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px solid #ddd<LF>color<COLN> #ffffff<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>padding<COLN> 10px<LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>border-radius<COLN> 7px<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 16.5px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>div.background-color<COLN> transparent<LF>div.border-radius<COLN> 11px<LF>div.border<COLN> 1px solid #ddd<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 25px 0px 25px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    loginprompt,input,LOCK,false
+    loginprompt,input,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginprompt,input,extend,{"react"<COLN>"<LF>"}
+loginprompt,input,REFRESH, 
+loginprompt,btnok,TARGET,frame
+loginprompt,btnok,PARENTGROUP,frame
+loginprompt,btnok,load,button|Ok|0|0|165|33|1342394112|32
+    loginprompt,btnok,group,true
+    loginprompt,btnok,groupid,0
+    loginprompt,btnok,groupby,0300
+    loginprompt,btnok,widgetlock,false
+    loginprompt,btnok,iswidget,false
+    loginprompt,btnok,iscollection,false
+    loginprompt,btnok,collectname,
+    loginprompt,btnok,widgetname,
+    loginprompt,btnok,placeholder,
+    loginprompt,btnok,addedby,
+    loginprompt,btnok,DOCK,FFFF
+    loginprompt,btnok,PICTURE,media/img_missing.png
+    loginprompt,btnok,SIZE,165<PIP>33
+    loginprompt,btnok,JSON,{}
+    loginprompt,btnok,TEXT,Ok
+    loginprompt,btnok,TOOLTIP,
+    loginprompt,btnok,ENABLED,true
+    loginprompt,btnok,VISIBLE,true
+    loginprompt,btnok,ZORDER,0
+    loginprompt,btnok,FORECOLOR,&hffffff
+    loginprompt,btnok,BACKCOLOR,var(--color600)
+    loginprompt,btnok,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    loginprompt,btnok,FONTSIZE,14px
+    loginprompt,btnok,FONTBOLD,false
+    loginprompt,btnok,FONTITALIC,false
+    loginprompt,btnok,FONTUNDERLINE,false
+    loginprompt,btnok,FONTSTRIKETHRU,false
+    loginprompt,btnok,INFO,
+    loginprompt,btnok,PAGECOUNT,0
+    loginprompt,btnok,DATABIND,
+    loginprompt,btnok,BINDMAPPING,
+    loginprompt,btnok,drag.x,1
+    loginprompt,btnok,drag.y,1
+    loginprompt,btnok,xdragrange,-1<SEMI> -1
+    loginprompt,btnok,ydragrange,-1<SEMI> -1
+    loginprompt,btnok,size.x,1
+    loginprompt,btnok,size.y,1
+    loginprompt,btnok,negadj,
+    loginprompt,btnok,posadj,
+    loginprompt,btnok,child,true
+    loginprompt,btnok,displaymode,inline-block
+    loginprompt,btnok,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-width<COLN> <LF>~color<COLN> #ffffff<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>width<COLN> calc(50% - 5px)<LF>background-color<COLN> var(--color600)<LF>border-color<COLN> #bbb<LF>border-radius<COLN> 5px<LF>border-style<COLN> solid<LF>border-width<COLN> 1px<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>text-decoration<COLN> <LF>vertical-align<COLN><LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> 100%<LF>div.display<COLN> inline-block<LF>div.margin<COLN> 0px 5px 0px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginprompt,btnok,LOCK,false
+    loginprompt,btnok,events,click<COLN> login.prompt.ok.click<CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginprompt,btnok,extend,{"react"<COLN>"<LF>"}
+loginprompt,btnok,REFRESH, 
+loginprompt,btncancel,TARGET,frame
+loginprompt,btncancel,PARENTGROUP,frame
+loginprompt,btncancel,load,button|Cancel|0|0|131|33|1342394112|32
+    loginprompt,btncancel,group,true
+    loginprompt,btncancel,groupid,0
+    loginprompt,btncancel,groupby,0300
+    loginprompt,btncancel,widgetlock,false
+    loginprompt,btncancel,iswidget,false
+    loginprompt,btncancel,iscollection,false
+    loginprompt,btncancel,collectname,
+    loginprompt,btncancel,widgetname,
+    loginprompt,btncancel,placeholder,
+    loginprompt,btncancel,addedby,
+    loginprompt,btncancel,DOCK,FFFF
+    loginprompt,btncancel,PICTURE,media/img_missing.png
+    loginprompt,btncancel,SIZE,131<PIP>33
+    loginprompt,btncancel,JSON,{}
+    loginprompt,btncancel,TEXT,Cancel
+    loginprompt,btncancel,TOOLTIP,
+    loginprompt,btncancel,ENABLED,true
+    loginprompt,btncancel,VISIBLE,true
+    loginprompt,btncancel,ZORDER,0
+    loginprompt,btncancel,FORECOLOR,&hffffff
+    loginprompt,btncancel,BACKCOLOR,var(--color800)
+    loginprompt,btncancel,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    loginprompt,btncancel,FONTSIZE,14px
+    loginprompt,btncancel,FONTBOLD,false
+    loginprompt,btncancel,FONTITALIC,false
+    loginprompt,btncancel,FONTUNDERLINE,false
+    loginprompt,btncancel,FONTSTRIKETHRU,false
+    loginprompt,btncancel,INFO,
+    loginprompt,btncancel,PAGECOUNT,0
+    loginprompt,btncancel,DATABIND,
+    loginprompt,btncancel,BINDMAPPING,
+    loginprompt,btncancel,drag.x,1
+    loginprompt,btncancel,drag.y,1
+    loginprompt,btncancel,xdragrange,-1<SEMI> -1
+    loginprompt,btncancel,ydragrange,-1<SEMI> -1
+    loginprompt,btncancel,size.x,1
+    loginprompt,btncancel,size.y,1
+    loginprompt,btncancel,negadj,
+    loginprompt,btncancel,posadj,
+    loginprompt,btncancel,child,true
+    loginprompt,btncancel,displaymode,inline-block
+    loginprompt,btncancel,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-width<COLN> <LF>~color<COLN> #ffffff<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>width<COLN> calc(50% - 5px)<LF>background-color<COLN> var(--color800)<LF>border-color<COLN> #bbb<LF>border-radius<COLN> 5px<LF>border-style<COLN> solid<LF>border-width<COLN> 1px<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>text-decoration<COLN> <LF>vertical-align<COLN><LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> 100%<LF>div.display<COLN> inline-block<LF>div.margin<COLN> 0px 5px 0px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginprompt,btncancel,LOCK,false
+    loginprompt,btncancel,events,click<COLN> login.prompt.cancel.click<CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginprompt,btncancel,extend,{"react"<COLN>"<LF>"}
+loginprompt,btncancel,REFRESH, 
+loginprompt,,SETVIEW,
+loginprompt,,HIDE,
+loginprompt,,REFRESH,true

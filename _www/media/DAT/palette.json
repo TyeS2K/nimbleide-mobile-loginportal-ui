@@ -1,0 +1,20 @@
+{
+	"name": "light blue",
+	"jsonType": "palette",
+	"data": {
+		"color50": "#ffffff", 
+		"color100": "#b3c6ff", 
+		"color200": "#a1b1e7", 
+		"color300": "#8f9dd0", 
+		"color400": "#7d89b9", 
+		"color500": "#6c76a2", 
+		"color600": "#5b638c", 
+		"color700": "#4b5177", 
+		"color800": "#3b3f62", 
+		"color900": "#2b2f4e", 
+		"colora100": "#1c1f3b", 
+		"colora200": "#F2B807", 
+		"colora400": "#F28705", 
+		"colora700": "#C52104"
+	}
+}

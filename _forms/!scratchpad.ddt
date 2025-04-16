@@ -1,0 +1,286 @@
+!scratchpad,,SURFACE,New Surface|50|155|1014|649|268435476|65568
+    !scratchpad,,version,5.0
+    !scratchpad,,groupid,9999999999
+    !scratchpad,,groupby,0
+    !scratchpad,,runpos,0|0
+    !scratchpad,,DOCK,FFFF
+    !scratchpad,,PARENT,
+    !scratchpad,,MARGINS,
+    !scratchpad,,AUTOSIZE,false
+    !scratchpad,,TEXT,New Surface
+    !scratchpad,,TOOLTIP,
+    !scratchpad,,ENABLED,true
+    !scratchpad,,VISIBLE,true
+    !scratchpad,,FORECOLOR,&heeeeee
+    !scratchpad,,BACKCOLOR,&hf9f9f9
+    !scratchpad,,ICON,
+    !scratchpad,,FONTNAME,inherit
+    !scratchpad,,FONTSIZE,
+    !scratchpad,,FONTBOLD,false
+    !scratchpad,,FONTITALIC,false
+    !scratchpad,,FONTUNDERLINE,false
+    !scratchpad,,FONTSTRIKETHRU,false
+    !scratchpad,,MENUBAR,
+    !scratchpad,,TOOLBAR,
+    !scratchpad,,STATUSBAR,
+    !scratchpad,,SAVESTATE,false
+    !scratchpad,,drag.x,
+    !scratchpad,,drag.y,
+    !scratchpad,,xdragrange,
+    !scratchpad,,ydragrange,
+    !scratchpad,,size.x,
+    !scratchpad,,size.y,
+    !scratchpad,,negadj,
+    !scratchpad,,posadj,
+    !scratchpad,,TAG,~autosize<COLN> false<CR>bind<COLN> false<CR>category<COLN> <CR>class<COLN> <CR>clipmenu<COLN> true<CR>donottheme<COLN> false<CR>dragable<COLN> false<CR>flattenonpull<COLN> true<CR>hotkey<COLN> <CR>ignorezorder<COLN> false<CR>lock-height<COLN> <CR>lock-width<COLN> <CR>output<COLN> normal<CR>record<COLN> <CR>shadow<COLN> false<CR>sizeable<COLN> false<CR>tag<COLN> <CR>theme<COLN> nimble-form<CR>toggleonflip<COLN> true<CR>useastheme<COLN> false<CR>watch<COLN> false<CR>body.lock-height<COLN> <CR>body.version<COLN> v5.0~background-color<COLN> #f9f9f9<CR>color<COLN> #eeeeee<CR>cursor<COLN> <CR>display<COLN> <CR>font-family<COLN> inherit<CR>font-size<COLN> <CR>font-style<COLN> normal<CR>font-weight<COLN> normal<CR>opacity<COLN> <CR>pointer-events<COLN> initial<CR>text-align<COLN> <CR>text-decoration<COLN> <CR>vertical-align<COLN> <CR>z-index<COLN> 2
+    !scratchpad,,events,
+    !scratchpad,,extend,{}
+    !scratchpad,,GROUPIDS,[0100][0200][0300][0400][0500][0600][0700]
+    !scratchpad,,WSTYLES,268435476
+    !scratchpad,,WSTYLESEX,65568
+    !scratchpad,,WIDTH,1014
+    !scratchpad,,HEIGHT,649
+    !scratchpad,,EDITPOS,50|155
+!scratchpad,!scratchmsg,TARGET,~
+!scratchpad,!scratchmsg,PARENTGROUP,~
+!scratchpad,!scratchmsg,load,label|Use this dialog as a scratchpad to create widgets.|1|626|1008|21|1342374157|32
+    !scratchpad,!scratchmsg,group,false
+    !scratchpad,!scratchmsg,groupid,0
+    !scratchpad,!scratchmsg,groupby,9999999999
+    !scratchpad,!scratchmsg,widgetlock,false
+    !scratchpad,!scratchmsg,iswidget,false
+    !scratchpad,!scratchmsg,iscollection,false
+    !scratchpad,!scratchmsg,collectname,
+    !scratchpad,!scratchmsg,widgetname,
+    !scratchpad,!scratchmsg,placeholder,
+    !scratchpad,!scratchmsg,addedby,
+    !scratchpad,!scratchmsg,DOCK,FTTT
+    !scratchpad,!scratchmsg,PICTURE,media/img_missing.png
+    !scratchpad,!scratchmsg,SIZE,1008<PIP>21
+    !scratchpad,!scratchmsg,TEXT,Use this dialog as a scratchpad to create widgets.
+    !scratchpad,!scratchmsg,TOOLTIP,
+    !scratchpad,!scratchmsg,ENABLED,true
+    !scratchpad,!scratchmsg,VISIBLE,true
+    !scratchpad,!scratchmsg,ZORDER,0
+    !scratchpad,!scratchmsg,FORECOLOR,&h000000
+    !scratchpad,!scratchmsg,BACKCOLOR,transparent
+    !scratchpad,!scratchmsg,FONTNAME,''comic sans ms''<COMMA> cursive<COMMA> sans-serif
+    !scratchpad,!scratchmsg,FONTSIZE,14px
+    !scratchpad,!scratchmsg,FONTBOLD,false
+    !scratchpad,!scratchmsg,FONTITALIC,true
+    !scratchpad,!scratchmsg,FONTUNDERLINE,false
+    !scratchpad,!scratchmsg,FONTSTRIKETHRU,false
+    !scratchpad,!scratchmsg,INFO,
+    !scratchpad,!scratchmsg,PAGECOUNT,0
+    !scratchpad,!scratchmsg,DATABIND,
+    !scratchpad,!scratchmsg,BINDMAPPING,
+    !scratchpad,!scratchmsg,drag.x,1
+    !scratchpad,!scratchmsg,drag.y,1
+    !scratchpad,!scratchmsg,xdragrange,-1<SEMI> -1
+    !scratchpad,!scratchmsg,ydragrange,-1<SEMI> -1
+    !scratchpad,!scratchmsg,size.x,1
+    !scratchpad,!scratchmsg,size.y,1
+    !scratchpad,!scratchmsg,negadj,
+    !scratchpad,!scratchmsg,posadj,
+    !scratchpad,!scratchmsg,child,false
+    !scratchpad,!scratchmsg,displaymode,absolute
+    !scratchpad,!scratchmsg,TAG,~bind<COLN> false<CR>category<COLN> <CR>class<COLN> <CR>dlock-height<COLN> <CR>dlock-left<COLN> <CR>dlock-pos<COLN> <CR>dlock-size<COLN> <CR>dlock-top<COLN> <CR>dlock-width<COLN> <CR>donottheme<COLN> false<CR>dragable<COLN> false<CR>lock-height<COLN> <CR>lock-pos<COLN> <CR>lock-size<COLN> <CR>lock-width<COLN> <CR>record<COLN> <CR>scale-cpl<COLN> 25<CR>scaletype<COLN> false<CR>sizeable<COLN> false<CR>tag<COLN> <CR>theme<COLN> nimble-label<CR>title<COLN> <CR>watch<COLN> false<CR>xdragrange<COLN> -1<SEMI> -1<CR>ydragrange<COLN> -1<SEMI> -1<CR>~background-color<COLN> transparent<CR>border-style<COLN> solid<CR>border-width<COLN> 0px<CR>color<COLN> #000000<CR>cursor<COLN> <CR>display<COLN> <CR>float<COLN> <CR>font-family<COLN> ''comic sans ms''<COMMA> cursive<COMMA> sans-serif<CR>font-size<COLN> 14px<CR>font-style<COLN> italic<CR>font-weight<COLN> normal<CR>opacity<COLN> 0.55<CR>padding<COLN> 0px 0px<CR>pointer-events<COLN> none<CR>position<COLN> absolute<CR>text-align<COLN> <CR>text-decoration<COLN> <CR>vertical-align<COLN><CR>visibility<COLN> visible<CR>caption.display<COLN> table-cell<CR>caption.text-align<COLN> center<CR>caption.width<COLN> 1%<CR>div.display<COLN> inline-block<CR>div.position<COLN> absolute
+    !scratchpad,!scratchmsg,LOCK,true
+    !scratchpad,!scratchmsg,events,
+    !scratchpad,!scratchmsg,extend,{}
+!scratchpad,!scratchmsg,REFRESH, 
+!scratchpad,frame1,TARGET,~
+!scratchpad,frame1,PARENTGROUP,~
+!scratchpad,frame1,load,frame||487|382|100|100|1342177287|32
+    !scratchpad,frame1,group,true
+    !scratchpad,frame1,groupid,0100
+    !scratchpad,frame1,groupby,9999999999
+    !scratchpad,frame1,widgetlock,false
+    !scratchpad,frame1,iswidget,false
+    !scratchpad,frame1,iscollection,false
+    !scratchpad,frame1,collectname,
+    !scratchpad,frame1,widgetname,
+    !scratchpad,frame1,placeholder,
+    !scratchpad,frame1,addedby,
+    !scratchpad,frame1,DOCK,FFFF
+    !scratchpad,frame1,PICTURE,media/img_missing.png
+    !scratchpad,frame1,SIZE,100<PIP>100
+    !scratchpad,frame1,TEXT,
+    !scratchpad,frame1,TOOLTIP,
+    !scratchpad,frame1,ENABLED,true
+    !scratchpad,frame1,VISIBLE,true
+    !scratchpad,frame1,ZORDER,0
+    !scratchpad,frame1,FORECOLOR,&h000000
+    !scratchpad,frame1,BACKCOLOR,transparent
+    !scratchpad,frame1,FONTNAME,inherit
+    !scratchpad,frame1,FONTSIZE,10.2pt
+    !scratchpad,frame1,FONTBOLD,false
+    !scratchpad,frame1,FONTITALIC,false
+    !scratchpad,frame1,FONTUNDERLINE,false
+    !scratchpad,frame1,FONTSTRIKETHRU,false
+    !scratchpad,frame1,INFO,
+    !scratchpad,frame1,PAGECOUNT,0
+    !scratchpad,frame1,DATABIND,
+    !scratchpad,frame1,BINDMAPPING,
+    !scratchpad,frame1,drag.x,1
+    !scratchpad,frame1,drag.y,1
+    !scratchpad,frame1,xdragrange,-1<SEMI> -1
+    !scratchpad,frame1,ydragrange,-1<SEMI> -1
+    !scratchpad,frame1,size.x,1
+    !scratchpad,frame1,size.y,1
+    !scratchpad,frame1,negadj,
+    !scratchpad,frame1,posadj,
+    !scratchpad,frame1,child,false
+    !scratchpad,frame1,displaymode,absolute
+    !scratchpad,frame1,TAG,~bind<COLN> false<CR>bindkey<COLN> <CR>category<COLN> <CR>class<COLN> <CR>dlock-height<COLN> <CR>dlock-left<COLN> <CR>dlock-pos<COLN> <CR>dlock-size<COLN> <CR>dlock-top<COLN> <CR>dlock-width<COLN> <CR>donottheme<COLN> false<CR>dragable<COLN> false<CR>hotkey<COLN> <CR>lock-height<COLN> <CR>lock-left<COLN> <CR>lock-pos<COLN> <CR>lock-size<COLN> <CR>lock-top<COLN> <CR>lock-width<COLN> <CR>record<COLN> <CR>sizeable<COLN> false<CR>theme<COLN> nimble-frame<CR>title<COLN> <CR>watch<COLN> false<CR>xdragrange<COLN> -1<SEMI> -1<CR>ydragrange<COLN> -1<SEMI> -1<CR>~background-color<COLN> TRANSPARENT<CR>border<COLN> 1px #bbb dotted<CR>box-sizing<COLN> border-box<CR>color<COLN> #000000<CR>cursor<COLN> <CR>display<COLN> inline-block<CR>float<COLN> <CR>font-family<COLN> inherit<CR>font-size<COLN> 10.2pt<CR>font-style<COLN> normal<CR>font-weight<COLN> normal<CR>opacity<COLN> <CR>pointer-events<COLN> inherit<CR>position<COLN> absolute<CR>text-align<COLN> left<CR>text-decoration<COLN> <CR>transform<COLN> perspective(2000px) rotateY(0deg) rotateX(-45deg) rotateZ(-45deg)<CR>vertical-align<COLN><CR>visibility<COLN> visible
+    !scratchpad,frame1,LOCK,false
+    !scratchpad,frame1,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,frame1,extend,{}
+!scratchpad,frame1,REFRESH, 
+!scratchpad,frame,TARGET,~
+!scratchpad,frame,PARENTGROUP,~
+!scratchpad,frame,load,frame||558|332|100|100|1342177287|32
+    !scratchpad,frame,group,true
+    !scratchpad,frame,groupid,0300
+    !scratchpad,frame,groupby,9999999999
+    !scratchpad,frame,widgetlock,false
+    !scratchpad,frame,iswidget,false
+    !scratchpad,frame,iscollection,false
+    !scratchpad,frame,collectname,
+    !scratchpad,frame,widgetname,
+    !scratchpad,frame,placeholder,
+    !scratchpad,frame,addedby,
+    !scratchpad,frame,DOCK,FFFF
+    !scratchpad,frame,PICTURE,media/img_missing.png
+    !scratchpad,frame,SIZE,100<PIP>100
+    !scratchpad,frame,TEXT,
+    !scratchpad,frame,TOOLTIP,
+    !scratchpad,frame,ENABLED,true
+    !scratchpad,frame,VISIBLE,true
+    !scratchpad,frame,ZORDER,0
+    !scratchpad,frame,FORECOLOR,&h000000
+    !scratchpad,frame,BACKCOLOR,transparent
+    !scratchpad,frame,FONTNAME,inherit
+    !scratchpad,frame,FONTSIZE,10.2pt
+    !scratchpad,frame,FONTBOLD,false
+    !scratchpad,frame,FONTITALIC,false
+    !scratchpad,frame,FONTUNDERLINE,false
+    !scratchpad,frame,FONTSTRIKETHRU,false
+    !scratchpad,frame,INFO,
+    !scratchpad,frame,PAGECOUNT,0
+    !scratchpad,frame,DATABIND,
+    !scratchpad,frame,BINDMAPPING,
+    !scratchpad,frame,drag.x,1
+    !scratchpad,frame,drag.y,1
+    !scratchpad,frame,xdragrange,-1<SEMI> -1
+    !scratchpad,frame,ydragrange,-1<SEMI> -1
+    !scratchpad,frame,size.x,1
+    !scratchpad,frame,size.y,1
+    !scratchpad,frame,negadj,
+    !scratchpad,frame,posadj,
+    !scratchpad,frame,child,false
+    !scratchpad,frame,displaymode,absolute
+    !scratchpad,frame,TAG,~bind<COLN> false<CR>bindkey<COLN> <CR>category<COLN> <CR>class<COLN> <CR>dlock-height<COLN> <CR>dlock-left<COLN> <CR>dlock-pos<COLN> <CR>dlock-size<COLN> <CR>dlock-top<COLN> <CR>dlock-width<COLN> <CR>donottheme<COLN> false<CR>dragable<COLN> false<CR>hotkey<COLN> <CR>lock-height<COLN> <CR>lock-left<COLN> <CR>lock-pos<COLN> <CR>lock-size<COLN> <CR>lock-top<COLN> <CR>lock-width<COLN> <CR>record<COLN> <CR>sizeable<COLN> false<CR>theme<COLN> nimble-frame<CR>title<COLN> <CR>watch<COLN> false<CR>xdragrange<COLN> -1<SEMI> -1<CR>ydragrange<COLN> -1<SEMI> -1<CR>~background-color<COLN> TRANSPARENT<CR>border<COLN> 1px #bbb dotted<CR>box-sizing<COLN> border-box<CR>color<COLN> #000000<CR>cursor<COLN> <CR>display<COLN> inline-block<CR>float<COLN> <CR>font-family<COLN> inherit<CR>font-size<COLN> 10.2pt<CR>font-style<COLN> normal<CR>font-weight<COLN> normal<CR>opacity<COLN> <CR>pointer-events<COLN> inherit<CR>position<COLN> absolute<CR>text-align<COLN> left<CR>text-decoration<COLN> <CR>transform<COLN> perspective(2000px) rotateY(0deg) rotateX(-45deg) rotateZ(-45deg)<CR>vertical-align<COLN><CR>visibility<COLN> visible
+    !scratchpad,frame,LOCK,false
+    !scratchpad,frame,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,frame,extend,{}
+!scratchpad,frame,REFRESH, 
+!scratchpad,frame2,TARGET,~
+!scratchpad,frame2,PARENTGROUP,~
+!scratchpad,frame2,load,frame||558|431|100|100|1342177287|32
+    !scratchpad,frame2,group,true
+    !scratchpad,frame2,groupid,0500
+    !scratchpad,frame2,groupby,9999999999
+    !scratchpad,frame2,widgetlock,false
+    !scratchpad,frame2,iswidget,false
+    !scratchpad,frame2,iscollection,false
+    !scratchpad,frame2,collectname,
+    !scratchpad,frame2,widgetname,
+    !scratchpad,frame2,placeholder,
+    !scratchpad,frame2,addedby,
+    !scratchpad,frame2,DOCK,FFFF
+    !scratchpad,frame2,PICTURE,media/img_missing.png
+    !scratchpad,frame2,SIZE,100<PIP>100
+    !scratchpad,frame2,TEXT,
+    !scratchpad,frame2,TOOLTIP,
+    !scratchpad,frame2,ENABLED,true
+    !scratchpad,frame2,VISIBLE,true
+    !scratchpad,frame2,ZORDER,0
+    !scratchpad,frame2,FORECOLOR,&h000000
+    !scratchpad,frame2,BACKCOLOR,transparent
+    !scratchpad,frame2,FONTNAME,inherit
+    !scratchpad,frame2,FONTSIZE,10.2pt
+    !scratchpad,frame2,FONTBOLD,false
+    !scratchpad,frame2,FONTITALIC,false
+    !scratchpad,frame2,FONTUNDERLINE,false
+    !scratchpad,frame2,FONTSTRIKETHRU,false
+    !scratchpad,frame2,INFO,
+    !scratchpad,frame2,PAGECOUNT,0
+    !scratchpad,frame2,DATABIND,
+    !scratchpad,frame2,BINDMAPPING,
+    !scratchpad,frame2,drag.x,1
+    !scratchpad,frame2,drag.y,1
+    !scratchpad,frame2,xdragrange,-1<SEMI> -1
+    !scratchpad,frame2,ydragrange,-1<SEMI> -1
+    !scratchpad,frame2,size.x,1
+    !scratchpad,frame2,size.y,1
+    !scratchpad,frame2,negadj,
+    !scratchpad,frame2,posadj,
+    !scratchpad,frame2,child,false
+    !scratchpad,frame2,displaymode,absolute
+    !scratchpad,frame2,TAG,~bind<COLN> false<CR>bindkey<COLN> <CR>category<COLN> <CR>class<COLN> <CR>dlock-height<COLN> <CR>dlock-left<COLN> <CR>dlock-pos<COLN> <CR>dlock-size<COLN> <CR>dlock-top<COLN> <CR>dlock-width<COLN> <CR>donottheme<COLN> false<CR>dragable<COLN> false<CR>hotkey<COLN> <CR>lock-height<COLN> <CR>lock-left<COLN> <CR>lock-pos<COLN> <CR>lock-size<COLN> <CR>lock-top<COLN> <CR>lock-width<COLN> <CR>record<COLN> <CR>sizeable<COLN> false<CR>theme<COLN> nimble-frame<CR>title<COLN> <CR>watch<COLN> false<CR>xdragrange<COLN> -1<SEMI> -1<CR>ydragrange<COLN> -1<SEMI> -1<CR>~background-color<COLN> TRANSPARENT<CR>border<COLN> 1px #bbb dotted<CR>box-sizing<COLN> border-box<CR>color<COLN> #000000<CR>cursor<COLN> <CR>display<COLN> inline-block<CR>float<COLN> <CR>font-family<COLN> inherit<CR>font-size<COLN> 10.2pt<CR>font-style<COLN> normal<CR>font-weight<COLN> normal<CR>opacity<COLN> <CR>pointer-events<COLN> inherit<CR>position<COLN> absolute<CR>text-align<COLN> left<CR>text-decoration<COLN> <CR>transform<COLN> perspective(2000px) rotateY(0deg) rotateX(-45deg) rotateZ(-45deg)<CR>vertical-align<COLN><CR>visibility<COLN> visible
+    !scratchpad,frame2,LOCK,false
+    !scratchpad,frame2,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,frame2,extend,{}
+!scratchpad,frame2,REFRESH, 
+!scratchpad,frame3,TARGET,~
+!scratchpad,frame3,PARENTGROUP,~
+!scratchpad,frame3,load,frame||629|382|100|100|1342177287|32
+    !scratchpad,frame3,group,true
+    !scratchpad,frame3,groupid,0700
+    !scratchpad,frame3,groupby,9999999999
+    !scratchpad,frame3,widgetlock,false
+    !scratchpad,frame3,iswidget,false
+    !scratchpad,frame3,iscollection,false
+    !scratchpad,frame3,collectname,
+    !scratchpad,frame3,widgetname,
+    !scratchpad,frame3,placeholder,
+    !scratchpad,frame3,addedby,
+    !scratchpad,frame3,DOCK,FFFF
+    !scratchpad,frame3,PICTURE,media/img_missing.png
+    !scratchpad,frame3,SIZE,100<PIP>100
+    !scratchpad,frame3,TEXT,
+    !scratchpad,frame3,TOOLTIP,
+    !scratchpad,frame3,ENABLED,true
+    !scratchpad,frame3,VISIBLE,true
+    !scratchpad,frame3,ZORDER,0
+    !scratchpad,frame3,FORECOLOR,&h000000
+    !scratchpad,frame3,BACKCOLOR,transparent
+    !scratchpad,frame3,FONTNAME,inherit
+    !scratchpad,frame3,FONTSIZE,10.2pt
+    !scratchpad,frame3,FONTBOLD,false
+    !scratchpad,frame3,FONTITALIC,false
+    !scratchpad,frame3,FONTUNDERLINE,false
+    !scratchpad,frame3,FONTSTRIKETHRU,false
+    !scratchpad,frame3,INFO,
+    !scratchpad,frame3,PAGECOUNT,0
+    !scratchpad,frame3,DATABIND,
+    !scratchpad,frame3,BINDMAPPING,
+    !scratchpad,frame3,drag.x,1
+    !scratchpad,frame3,drag.y,1
+    !scratchpad,frame3,xdragrange,-1<SEMI> -1
+    !scratchpad,frame3,ydragrange,-1<SEMI> -1
+    !scratchpad,frame3,size.x,1
+    !scratchpad,frame3,size.y,1
+    !scratchpad,frame3,negadj,
+    !scratchpad,frame3,posadj,
+    !scratchpad,frame3,child,false
+    !scratchpad,frame3,displaymode,absolute
+    !scratchpad,frame3,TAG,~bind<COLN> false<CR>bindkey<COLN> <CR>category<COLN> <CR>class<COLN> <CR>dlock-height<COLN> <CR>dlock-left<COLN> <CR>dlock-pos<COLN> <CR>dlock-size<COLN> <CR>dlock-top<COLN> <CR>dlock-width<COLN> <CR>donottheme<COLN> false<CR>dragable<COLN> false<CR>hotkey<COLN> <CR>lock-height<COLN> <CR>lock-left<COLN> <CR>lock-pos<COLN> <CR>lock-size<COLN> <CR>lock-top<COLN> <CR>lock-width<COLN> <CR>record<COLN> <CR>sizeable<COLN> false<CR>theme<COLN> nimble-frame<CR>title<COLN> <CR>watch<COLN> false<CR>xdragrange<COLN> -1<SEMI> -1<CR>ydragrange<COLN> -1<SEMI> -1<CR>~background-color<COLN> TRANSPARENT<CR>border<COLN> 1px #bbb dotted<CR>box-sizing<COLN> border-box<CR>color<COLN> #000000<CR>cursor<COLN> <CR>display<COLN> inline-block<CR>float<COLN> <CR>font-family<COLN> inherit<CR>font-size<COLN> 10.2pt<CR>font-style<COLN> normal<CR>font-weight<COLN> normal<CR>opacity<COLN> <CR>pointer-events<COLN> inherit<CR>position<COLN> absolute<CR>text-align<COLN> left<CR>text-decoration<COLN> <CR>transform<COLN> perspective(2000px) rotateY(0deg) rotateX(-45deg) rotateZ(-45deg) <CR>vertical-align<COLN><CR>visibility<COLN> visible<CR>~
+    !scratchpad,frame3,LOCK,false
+    !scratchpad,frame3,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,frame3,extend,{}
+!scratchpad,frame3,REFRESH, 
+!scratchpad,,SETVIEW,
+!scratchpad,,HIDE,
+!scratchpad,,REFRESH,true

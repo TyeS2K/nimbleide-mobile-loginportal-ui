@@ -1,0 +1,2 @@
+Id|Level|Form Name|Icon|Caption|Url|Tooltip
+xchat|1|loginsplash|media/icons/app.gif|loginsplash (Launch Dialog)|JS.Launch(1,'xchat','js/xchat.js','js');|
