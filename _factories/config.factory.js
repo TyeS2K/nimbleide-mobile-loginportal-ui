@@ -15,8 +15,14 @@ FACTORY.Register("Config", function blankFactory() {
 	var config = function () {
 		var self = this;
 		var _state = 'local';	//local
-        var _ip = '127.0.0.1:3031';
-
+        var _ip = '127.0.0.1';
+        var _port = 3031;
+      
+		self.port = function(blSock) {
+          return (_state == 'local') ? 
+            ":" + (blSock ? _port + 1 : _port) :
+          	"";
+        };
 		self.server = function(svc) {
           return (_state == 'local') ? 'http://' + _ip + '/' + svc : 'https://www.nimble-ide.com/' + svc;
 		};

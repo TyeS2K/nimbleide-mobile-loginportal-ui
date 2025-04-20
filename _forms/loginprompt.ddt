@@ -136,14 +136,14 @@ loginprompt,frame,load,frame||0|0|380|139|1342227719|544
     loginprompt,frame,posadj,
     loginprompt,frame,child,false
     loginprompt,frame,displaymode,block
-    loginprompt,frame,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> none<LF>color<COLN> var(--color50)<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>margin<COLN> 0px 0px 0px 0px<LF>opacity<COLN> <LF>overflow<COLN> visible<LF>padding<COLN> 20px 20px 20px 20px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> var(--color50)<LF>border-radius<COLN> 7px<LF>box-shadow<COLN> rgba(20<COMMA>20<COMMA>20<COMMA>.85) 8px 8px 8px 0px<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 14px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    loginprompt,frame,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 5px var(--color900) double<LF>color<COLN> var(--color50)<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>margin<COLN> 0px 0px 0px 0px<LF>opacity<COLN> <LF>overflow<COLN> visible<LF>padding<COLN> 20px 20px 20px 20px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> var(--color50)<LF>border-radius<COLN> 7px<LF>box-shadow<COLN> rgba(20<COMMA>20<COMMA>20<COMMA>.85) 8px 8px 8px 0px<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 14px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
     loginprompt,frame,LOCK,false
     loginprompt,frame,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
     loginprompt,frame,extend,{"react"<COLN>"<LF>"}
 loginprompt,frame,REFRESH, 
 loginprompt,msgtitle,TARGET,frame
 loginprompt,msgtitle,PARENTGROUP,frame
-loginprompt,msgtitle,load,label|Password|0|0|105|69|1342377216|32
+loginprompt,msgtitle,load,label|Prompt|0|0|105|69|1342377216|32
     loginprompt,msgtitle,group,true
     loginprompt,msgtitle,groupid,0200
     loginprompt,msgtitle,groupby,0300
@@ -158,7 +158,7 @@ loginprompt,msgtitle,load,label|Password|0|0|105|69|1342377216|32
     loginprompt,msgtitle,PICTURE,media/img_missing.png
     loginprompt,msgtitle,SIZE,105<PIP>69
     loginprompt,msgtitle,JSON,{}
-    loginprompt,msgtitle,TEXT,Password
+    loginprompt,msgtitle,TEXT,Prompt
     loginprompt,msgtitle,TOOLTIP,
     loginprompt,msgtitle,ENABLED,true
     loginprompt,msgtitle,VISIBLE,true
@@ -212,7 +212,7 @@ loginprompt,input,load,textbox||0|0|380|46|1342374016|131072
     loginprompt,input,ENABLED,true
     loginprompt,input,VISIBLE,true
     loginprompt,input,ZORDER,0
-    loginprompt,input,FORECOLOR,&hffffff
+    loginprompt,input,FORECOLOR,&h000000
     loginprompt,input,BACKCOLOR,transparent
     loginprompt,input,FONTNAME,inherit
     loginprompt,input,FONTSIZE,16.5px
@@ -234,7 +234,7 @@ loginprompt,input,load,textbox||0|0|380|46|1342374016|131072
     loginprompt,input,posadj,
     loginprompt,input,child,true
     loginprompt,input,displaymode,block
-    loginprompt,input,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> Room password<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> input<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px solid #ddd<LF>color<COLN> #ffffff<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>padding<COLN> 10px<LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>border-radius<COLN> 7px<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 16.5px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>div.background-color<COLN> transparent<LF>div.border-radius<COLN> 11px<LF>div.border<COLN> 1px solid #ddd<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 25px 0px 25px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    loginprompt,input,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> Answer...<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> input<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px solid #ddd<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>padding<COLN> 10px<LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>border-radius<COLN> 7px<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 16.5px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>div.background-color<COLN> transparent<LF>div.border-radius<COLN> 11px<LF>div.border<COLN> 1px solid #ddd<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 25px 0px 25px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
     loginprompt,input,LOCK,false
     loginprompt,input,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
     loginprompt,input,extend,{"react"<COLN>"<LF>"}
