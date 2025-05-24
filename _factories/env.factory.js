@@ -103,7 +103,9 @@ FACTORY.Register('Env', function envFactory() {
 			return (ret.indexOf('www.') > -1) ? ret.split('www.')[1] : 
 				(ret.indexOf('://') > -1) ? ret.split('/')[2] : ret;
 		};
-
+		self.port = function(blSock) {
+          return $config.port(blSock);
+        };
 		self.getShell = function() {
 			return shell;
 		};
